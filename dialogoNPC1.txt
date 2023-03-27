@@ -2,4 +2,6 @@
 "No se que hacer"
 "¿Debería ir a comprar algo de comer?"
 
-["dialogoNPC-SI"]
+
+["dialogoNPC-SI","dialogoNPC-NO"]
+
